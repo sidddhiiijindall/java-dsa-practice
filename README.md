@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
