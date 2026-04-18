@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 ## Prefix Sum
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
