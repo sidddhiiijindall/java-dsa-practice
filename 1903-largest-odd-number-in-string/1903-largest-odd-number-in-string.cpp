@@ -8,15 +8,11 @@ public:
         }}
          string ans="";
          if(n!=-1){
-         ans = add(num,n);}
+         for(int j=0;j<=n;j++){
+         ans.push_back(num[j]);
+        }
+        }
         return ans;
     }
-    string add(string num,int n){
-        string s="";
-        for(int j=0;j<=n;j++){
-         s.push_back(num[j]);
-        }
-        return s;
-    }
-
+   
 };
