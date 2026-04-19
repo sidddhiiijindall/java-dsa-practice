@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
+| [0796-rotate-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
