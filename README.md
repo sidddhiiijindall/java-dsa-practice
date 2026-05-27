@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
