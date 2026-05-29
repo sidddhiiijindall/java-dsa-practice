@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
