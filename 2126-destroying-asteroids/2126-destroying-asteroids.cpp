@@ -4,8 +4,8 @@ public:
         sort(asteroids.begin(),asteroids.end());
         long long a = mass;
         for(int i =0;i<asteroids.size();i++){
-            if(a>= asteroids[i])a+=asteroids[i];
-            else return false;
+         if(a<asteroids[i])return false;
+         a+=asteroids[i];
         }
         return true;
     }
