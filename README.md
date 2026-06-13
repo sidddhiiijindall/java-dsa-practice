@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
