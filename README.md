@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
+| [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -209,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
