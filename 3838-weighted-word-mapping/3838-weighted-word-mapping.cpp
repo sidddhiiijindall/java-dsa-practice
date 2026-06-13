@@ -8,8 +8,7 @@ public:
            for(int j =0;j< a.length();j++){
             s+= weights[a[j]-'a'];
            }
-           s=s%26;
-           ans+=( (26-s) +'a' -1);
+           ans+= 'z'- (s%26);
         }
         return ans;
     }
