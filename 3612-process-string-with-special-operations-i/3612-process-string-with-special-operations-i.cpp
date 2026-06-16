@@ -3,15 +3,15 @@ public:
     string processStr(string s) {
         string ans="";
         for(int i =0;i<s.length();i++){
-            if(s[i]>=97 && s[i]<= 122)ans+=s[i];
+            if(s[i]>='a' && s[i]<= 'z')ans+=s[i];
            else if(s[i]== '*' && ans.length()>0)ans.pop_back();
             else if(s[i]=='#')ans+=ans;
-            else{int i =0,j=ans.length()-1;
-            while(i<=j){
-                char t = ans[i];
-                ans[i]=ans[j];
+            else if(s[i]=='%'){int k =0,j=ans.length()-1;
+            while(k<=j){
+                char t = ans[k];
+                ans[k]=ans[j];
                 ans[j]=t;
-                i++,j--;
+                k++,j--;
             } }
         }
         return ans;
