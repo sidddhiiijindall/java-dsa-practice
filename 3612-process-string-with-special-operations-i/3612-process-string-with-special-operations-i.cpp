@@ -6,13 +6,7 @@ public:
             if(s[i]>='a' && s[i]<= 'z')ans+=s[i];
            else if(s[i]== '*' && ans.length()>0)ans.pop_back();
             else if(s[i]=='#')ans+=ans;
-            else if(s[i]=='%'){int k =0,j=ans.length()-1;
-            while(k<=j){
-                char t = ans[k];
-                ans[k]=ans[j];
-                ans[j]=t;
-                k++,j--;
-            } }
+            else if(s[i]=='%')reverse(ans.begin(),ans.end());
         }
         return ans;
     }
