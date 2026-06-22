@@ -5,15 +5,13 @@ public:
         for(int i =0;i<text.length();i++){
           if(text[i]=='b')b++;
           else if(text[i]=='a')a++;
-          else if(text[i]=='l'){if(t==1)l++,t=0;
-          else{ t=1;} }
-          else if(text[i]=='o'){if(s==1)o++,s=0;
-          else{s=1;}}
+          else if(text[i]=='l')l++;
+          else if(text[i]=='o')o++;
           else if(text[i]=='n')n++;
         }
      int ans = min(b,a);
-     ans = min(ans,l);
-     ans= min(ans,o);
+     ans = min(ans,l/2);
+     ans= min(ans,o/2);
      ans = min(ans,n);
      return ans;
     }
