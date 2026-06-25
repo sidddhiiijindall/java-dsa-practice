@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0148-sort-list/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0148-sort-list/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,12 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
