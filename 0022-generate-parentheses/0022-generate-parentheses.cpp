@@ -2,10 +2,10 @@ class Solution {
 public:
  void fn(int n,string& s,int& o, int& c, vector<string>& ans ){
     if(s.length() == n*2 ){
-        if(o==c) ans.push_back(s);
+         ans.push_back(s);
           return ;
     }
-    if( s.length()==0 || o<n){
+    if(  o<n){
         s.push_back('(');
         o++;
         fn(n,s, o,c,ans);
