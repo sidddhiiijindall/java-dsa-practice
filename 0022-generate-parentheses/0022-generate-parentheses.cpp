@@ -11,15 +11,8 @@ public:
         fn(n,s, o,c,ans);
         s.pop_back();
         o--;
-        if(o>c){
-         s.push_back(')');
-        c++;
-         fn(n,s, o,c, ans);
-         s.pop_back();
-         c--;
-        }
     }
-    else{
+    if(o>c){
         s.push_back(')');
         c++;
         fn(n,s,o,c,ans);
