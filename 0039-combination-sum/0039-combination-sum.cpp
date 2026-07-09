@@ -1,25 +1,21 @@
 class Solution {
 public:
-    void fn (vector<vector<int>>& ans , vector<int>& t,vector<int>& candidates,int i , int target, int& sum ){
-        if (sum>= target ){
-            if(sum== target )ans.push_back(t);
-            return ;
-        }
-        for(int j =i; j<candidates.size();j++){
-            t.push_back(candidates[j]);
-            sum+= candidates[j];
-            fn(ans , t , candidates ,j ,target , sum);
-            sum-=candidates[j];
-            t.pop_back();
-        }
-        return;
-    }
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
+void fn(  vector<vector<int>>& ans , vector<int>& arr, vector<int>& t ,int i , int target ){
+    if(target ==0){ ans.push_back(t);
+    return ;}
+    else if(i==arr.size() || target <0){return ;}
+    t.push_back(arr[i]);
+    target-=arr[i];
+    fn(ans , arr, t , i , target);
+    t.pop_back();
+    target+=arr[i];
+     fn(ans , arr, t , i+1 , target);
+     return ;
+}
+    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
         vector<int> t;
-        int sum =0;
-        fn(ans , t , candidates , 0, target , sum );
-        return ans;
+         vector<vector<int>> ans;
+         fn(ans , arr , t, 0, target);
+         return ans;
     }
 };
-
