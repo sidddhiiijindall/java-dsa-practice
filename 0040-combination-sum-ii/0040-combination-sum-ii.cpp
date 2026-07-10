@@ -1,6 +1,6 @@
 class Solution {
 public:
-void fn (vector<int>& arr, vector<vector<int>>& ans, vector<int>& t , int target ,int i){
+void fn (vector<int>& arr,vector<vector<int>>& ans, vector<int>& t , int target ,int i){
      if(target==0){ans.push_back(t);
  return;}
     if(i==arr.size())return;
@@ -22,7 +22,7 @@ void fn (vector<int>& arr, vector<vector<int>>& ans, vector<int>& t , int target
         vector<vector<int>> ans;
          vector<int> t;
          sort(arr.begin(),arr.end());
-         fn(arr,ans,t ,target , 0);
+         fn(arr,ans, t ,target , 0);
          return ans; 
     }
 };
