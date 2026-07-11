@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0216-combination-sum-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -270,4 +271,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
