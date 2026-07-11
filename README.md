@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0283-move-zeroes](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0645-set-mismatch/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -267,4 +269,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
