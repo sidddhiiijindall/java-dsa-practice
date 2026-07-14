@@ -1,40 +1,32 @@
 class Solution {
 public:
-void fn(vector<string>& ans ,string& t,vector<string>& alph ,string& s,  int i  ){
-    
-    if(i==s.length()){
-        if(t.length()>0){
-        ans.push_back(t);}
-        return;
+  void fn (string digits, vector<string>& ans, int i ,vector<string>& check, string& t){
+    if(t.length()== digits.length()){
+        ans.push_back(t);
+        return ;
     }
-  
+    int n = digits[i]-'0';
+    string a= check[n-2];
+    for(int j =0;j< a.length();j++ ){
+        t.push_back(a[j]);
+        fn(digits , ans , i+1 ,check , t);
+        t.pop_back();
+    }
     
-              int ind = s[i]-'0';
-      string ch= alph[ind-2];
-    for(int j =0;j<ch.length();j++){
-       
-
-      t.push_back(ch[j]);
-      fn(ans,t,alph,s,i+1);
-      t.pop_back();
-    } 
-    return;
-}
-   
-    vector<string> letterCombinations(string s) {
-       vector<string> ans;
-        string t="";
-        vector<string> alph;
-       alph.push_back("abc");
-        alph.push_back("def");
-         alph.push_back("ghi");
-          alph.push_back("jkl");
-           alph.push_back("mno");
-            alph.push_back("pqrs");
-             alph.push_back("tuv");
-              alph.push_back("wxyz");
-        
-        fn(ans , t, alph , s, 0);
-        return ans;
+  }
+    vector<string> letterCombinations(string digits) {
+       vector<string> check;
+       check.push_back("abc");
+        check.push_back("def");
+         check.push_back("ghi");
+          check.push_back("jkl");
+           check.push_back("mno");
+            check.push_back("pqrs");
+             check.push_back("tuv");
+              check.push_back("wxyz");
+              string t="";
+              vector<string> ans; 
+              fn(digits, ans , 0, check , t);
+              return ans;
     }
 };
