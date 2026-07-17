@@ -12,7 +12,8 @@ public:
                     if(s[l]!=s[r]){f=0; break;}
                     l++,r--;
                 }
-                 if(f==1 && ans.length()<j-i+1)ans= s.substr(i,j-i+1);
+                 if(f==1 && ans.length()<j-i+1){ans= s.substr(i,j-i+1);break;}
+                 
                 
             }  } }
       return ans;
