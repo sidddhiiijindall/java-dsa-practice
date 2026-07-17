@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0148-sort-list/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0039-combination-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
