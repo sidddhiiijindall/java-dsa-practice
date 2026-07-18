@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -284,5 +286,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
