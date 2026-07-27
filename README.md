@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -295,4 +297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
