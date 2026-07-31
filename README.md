@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
