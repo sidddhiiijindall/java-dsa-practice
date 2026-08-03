@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0645-set-mismatch/) | Easy |
+| [0877-stone-game](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
