@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
