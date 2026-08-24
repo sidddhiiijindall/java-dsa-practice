@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0283-move-zeroes](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
