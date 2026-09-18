@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0046-permutations/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0278-first-bad-version/) | Easy |
