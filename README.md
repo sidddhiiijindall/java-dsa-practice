@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Enumeration
