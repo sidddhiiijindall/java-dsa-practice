@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0078-subsets/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0278-first-bad-version/) | Easy |
