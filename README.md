@@ -379,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0596-classes-with-at-least-5-students/) | Easy |
