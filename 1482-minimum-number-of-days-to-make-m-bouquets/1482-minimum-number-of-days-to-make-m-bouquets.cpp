@@ -1,23 +1,14 @@
 class Solution {
 public:
 bool isValid(vector<int>& bloomDay, int m , int k , int mid){
-    int bloomed=0,bouq=0,a=0;
+    int bloomed=0,bouq=0;
     for(int x:bloomDay){
         if(x<=mid){
-            if(a==0){
-                a=1;
-                bloomed=1;
-            }
-            else{
-                bloomed++;
-            }
-             if(bloomed==k){bouq++;a=0;}
+            bloomed++;
+           if(bloomed==k){bouq++;bloomed=0;}
         }
-        else a=0;
-       
+        else bloomed=0;
     }
-    
-
     if(bouq >= m)return true;
     else return false;
 }
