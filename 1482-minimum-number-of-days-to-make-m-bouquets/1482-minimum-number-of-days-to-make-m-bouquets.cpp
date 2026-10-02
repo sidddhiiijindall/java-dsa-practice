@@ -5,7 +5,8 @@ bool isValid(vector<int>& bloomDay, int m , int k , int mid){
     for(int x:bloomDay){
         if(x<=mid){
             bloomed++;
-           if(bloomed==k){bouq++;bloomed=0;}
+           if(bloomed==k){bouq++;bloomed=0;
+           if(bouq >= m)return true;}
         }
         else bloomed=0;
     }
