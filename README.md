@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
