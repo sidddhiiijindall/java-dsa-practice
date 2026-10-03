@@ -5,9 +5,10 @@ bool isValid(vector<int>& piles , int h , long long mid){
  for(int x:piles){
     if(x % mid==0)hours+= x/mid;
     else hours+= (x/mid)+1;
+    if(hours>h)return false;
  }
- if(hours<=h)return true;
- return false;
+ return true;
+ 
 }
     int minEatingSpeed(vector<int>& piles, int h) {
         int l =1 , r=piles[0];
