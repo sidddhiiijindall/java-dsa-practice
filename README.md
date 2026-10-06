@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0796-rotate-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -399,4 +402,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
