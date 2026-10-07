@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1208-get-equal-substrings-within-budget](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1208-get-equal-substrings-within-budget](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
