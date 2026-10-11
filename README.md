@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Number Theory
