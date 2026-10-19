@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
