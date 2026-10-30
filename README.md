@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -290,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
