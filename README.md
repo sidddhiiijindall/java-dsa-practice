@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1470-shuffle-the-array/) | Easy |
@@ -384,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1208-get-equal-substrings-within-budget/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
