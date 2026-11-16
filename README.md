@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0069-sqrtx/) | Easy |
 | [0258-add-digits](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0258-add-digits/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sidddhiiijindall/java-dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
